@@ -1,0 +1,16 @@
+{
+  "name": "BookLibrary",
+  "version": "0.0.1",
+  "description": "A simple library application using Backbone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sutthinart Khunvadhana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~3.1.0",
+    "path": "~0.4.9",
+    "mongoose": "~3.5.5"
+  }
+}
